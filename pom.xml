@@ -24,6 +24,13 @@
 		</dependency>
 	</dependencies>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/Dichromacy</connection>
+		<developerConnection>scm:git:git@github.com:fiji/Dichromacy</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/Dichromacy</url>
+	</scm>
+
 	<repositories>
 		<!-- NB: for project parent, in case of partial checkout -->
 		<repository>
