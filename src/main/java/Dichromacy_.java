@@ -1,9 +1,10 @@
-import ij.*;
-import ij.plugin.*;
-import ij.process.*;
-import ij.gui.*;
-import java.awt.*;
-import java.awt.image.*;
+import ij.IJ;
+import ij.ImagePlus;
+import ij.Undo;
+import ij.WindowManager;
+import ij.gui.GenericDialog;
+import ij.plugin.PlugIn;
+import ij.process.ImageProcessor;
 
 public class Dichromacy_ implements PlugIn {
 
