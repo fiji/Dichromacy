@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>Dichromacy_</artifactId>
-	<version>2.1.1-SNAPSHOT</version>
+	<version>2.1.1</version>
 
 	<name>Dichromacy</name>
 	<description>Dichromacy plugin for Fiji.</description>
@@ -75,7 +75,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Dichromacy</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Dichromacy</developerConnection>
-		<tag>HEAD</tag>
+		<tag>Dichromacy_-2.1.1</tag>
 		<url>https://github.com/fiji/Dichromacy</url>
 	</scm>
 	<issueManagement>
