@@ -54,7 +54,7 @@ public class Daltonize_ implements PlugInFilter {
 	public static int ATYPICAL_MONOCHROMACY = 8;
 	public static String[] types = {
 		"Normal",
-		"Protanopia (no red)", "Deutanopia (no green)", "Tritanopia (no blue)",
+		"Protanopia (no red)", "Deuteranopia (no green)", "Tritanopia (no blue)",
 		"Protanomaly (low red)", "Deuteranomaly (low green)",
 			"Tritanomaly (low blue)",
 		"Typical Monochromacy", "Atypical Monochromacy"
