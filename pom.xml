@@ -73,7 +73,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/fiji/Dichromacy</connection>
+		<connection>scm:git:https://github.com/fiji/Dichromacy</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Dichromacy</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/Dichromacy</url>
